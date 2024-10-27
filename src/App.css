@@ -15,7 +15,7 @@
 }
 
 .navbar-custom .navbar-brand {
-  font-size: 2rem;
+  font-size: 1.8rem;
   color: var(--secondarycolor);
   pointer-events: none;
   font-weight: 300;
