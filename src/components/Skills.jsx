@@ -16,7 +16,6 @@ const Skills = () => {
     return (
         <Container fluid className='m-0 p-0' id="skills">
             <div className='skills-section p-5'>
-                <Container>
                     <h1 className='mb-4'>My Skills</h1>
                     <div className="divider mb-4"></div>
                     <p>
@@ -39,7 +38,6 @@ const Skills = () => {
                             </Col>
                         ))}
                     </Row>
-                </Container>
             </div>
         </Container>
     );

@@ -25,7 +25,6 @@ const Contact = () => {
     return (
         <Container fluid className='m-0 p-0' id="contact">
             <div className='contact-section p-5'>
-                <Container>
                     <h1 className='mb-4'>Contact Me</h1>
                     <div className="divider mb-4"></div>
                     <Row className="social-links">
@@ -43,7 +42,6 @@ const Contact = () => {
                             </Col>
                         ))}
                     </Row>
-                </Container>
             </div>
         </Container>
     );

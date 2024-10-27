@@ -5,7 +5,6 @@ const Experience = () => {
     return (
         <Container fluid className='m-0 p-0' id="experience">
             <div className='experience-section p-5'>
-                <Container>
                     <h1 className='mb-4'>Professional Experience</h1>
                     <div className="divider mb-4"></div>
                     <div className='mt-4'>
@@ -23,7 +22,6 @@ const Experience = () => {
                             It dynamically processes user inputs, delivering relevant and context-aware responses in real-time.
                         </p>
                     </div>
-                </Container>
             </div>
         </Container>
     );
